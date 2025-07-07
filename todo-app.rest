@@ -7,7 +7,7 @@ Content-Type: application/json
 
 {
     "username": "Test",
-    "password": "testis"
+    "password": "Testis"
 }
 
 ### POST - LOGIN USER
@@ -16,5 +16,5 @@ Content-Type: application/json
 
 {
     "username": "Test",
-    "password": "testis"
+    "password": "Testis"
 }
